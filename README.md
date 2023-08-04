@@ -9,6 +9,7 @@
 5. All consoles and warnings have been addressed.
 
 6. Populated the cards by passing and receiving the desired data.
+![alt text](myDashboard.jpg)
 
 ## Bonus
 
