@@ -2,9 +2,9 @@
 
 2. I have addressed the second issue by merging the data according to the ids of the orders.
 
-3. For this issue I have passed current in the props and manipulated the later components accordingly.
+3. For this issue I have passed currency in the props and manipulated the components accordingly.
 
-4. Implement the search functionaly by filtering out the merged array by order IDs.
+4. Implemented the search functionaly by filtering out the merged array by order IDs.
 
 5. All consoles and warnings have been addressed.
 
